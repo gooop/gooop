@@ -3,10 +3,12 @@
 - 😄 Pronouns: he/him
 - 🔭 I’m currently working on:
   - Rust projects, like: [Simple Monte Carlo](https://github.com/gooop/Simple-Monte-Carlo)
+  - Java projects, like: [LytRacer](https://github.com/gooop/lytracer)
   - GLSL projects, like: [Kurosawa Shader](https://github.com/gooop/kurosawa-shader)
   - A discord bot: [Systematic Rat](https://github.com/gooop/Systematic-Rat)
 - 🌱 I’m currently learning:
   - Rust
+  - Java (or, re-learning Java)
   - The basics of web programming (via the Odin Project)
   - I'm also continually learning about languages I regularly use!
 
